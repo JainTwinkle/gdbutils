@@ -5,7 +5,7 @@
 Find where a given set of addresses are in the proc-maps
 of the current inferior process
 
-usage: whereis <addr>
+usage: whereis \<addr\>
 
 ## lfd
 
@@ -18,4 +18,4 @@ usage: lfd
 
 grep the text offset of the given absolute path of executable or shared library
 
-usage: toff <absolute-path-of-executable>
+usage: toff \<absolute-path-of-executable\>
